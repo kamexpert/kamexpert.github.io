@@ -203,12 +203,15 @@
       line-height: 23px; }
   #showcase .features_op1_row .feature .img_box {
     position: relative;
+    height: 200px;
+    width: 320px;
     border-radius: 5px; }
     #showcase .features_op1_row .feature .img_box img {
       border-radius: 5px;
       max-width: 98%;
       margin: 0 auto;
-      display: block; }
+      display: block; 
+    height:200px}
     #showcase .features_op1_row .feature .img_box span.circle {
       background: rgba(17, 137, 217, 0.8);
       width: 48px;
